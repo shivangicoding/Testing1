@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5A6C-02E4
+
+ Directory of C:\Users\shivangic\Desktop\my-repo
+
+09/22/2023  01:16 PM    <DIR>          .
+09/22/2023  01:16 PM    <DIR>          ..
+09/22/2023  01:16 PM                 0 shivangi.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  240,909,438,976 bytes free
